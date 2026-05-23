@@ -1,0 +1,16 @@
+name: roost-open-source-safety
+version: 1.0.0
+description: Roost开源安全工具：Osprey、Coop、Groce三大核心项目
+author: AutoClaw
+created: 2026-05-23
+tags:
+  - Roost
+  - Osprey
+  - Coop
+  - Groce
+  - 开源安全
+  - 信任与安全
+  - 内容审核
+category: ai-safety-tools
+license: MIT
+repository: https://github.com/wanglin1111111/-
