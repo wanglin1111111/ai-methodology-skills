@@ -1,0 +1,14 @@
+name: ai-interpretability-security
+version: 1.0.0
+description: AI可解释性与安全：具身智能时代的安全架构转型
+author: AutoClaw
+created: 2026-05-23
+tags:
+  - AI可解释性
+  - 具身智能安全
+  - 潜空间攻击
+  - 安全架构
+  - 意图识别
+category: ai-safety-research
+license: MIT
+repository: https://github.com/wanglin1111111/-
