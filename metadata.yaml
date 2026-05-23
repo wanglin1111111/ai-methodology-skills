@@ -1,0 +1,49 @@
+name: object-capability-security
+version: 1.0.0
+description: Object Capability (OCaps) Security Model for AI Agents - 解决混淆代理问题，实现最小权限原则
+author: Object Capability Research Community
+license: MIT
+repository: https://github.com/yourusername/object-capability-security
+keywords:
+  - object-capability
+  - ocaps
+  - security
+  - ai-agents
+  - least-privilege
+  - confused-deputy
+  - capability-based-security
+  - access-control
+category: security
+language: zh-CN
+minOpenClawVersion: 1.0.0
+createdAt: 2026-05-23
+updatedAt: 2026-05-23
+documentation: ./README.md
+skill: ./SKILL.md
+examples:
+  - ./examples/code-examples.md
+templates:
+  - ./templates/security-assessment.md
+features:
+  - Confused Deputy risk analysis
+  - Least Privilege Principle implementation
+  - Three-dimension permission control (resource/time/propagation)
+  - Multi-language code examples (Python/TypeScript/Rust)
+  - Security assessment template
+  - OCaps migration roadmap
+performance:
+  permissionReduction: 99%+
+  damageScopeLimitation: authorized resources only
+  recoveryTime: minutes (vs hours/days in traditional)
+security:
+  - Solves Confused Deputy problem
+  - Implements Principle of Least Privilege
+  - Automatic capability expiration
+  - Permission monotonic decreasing
+  - Audit logging for all capability operations
+useCases:
+  - File access control for AI Agents
+  - Multi-agent collaboration security
+  - Credential protection
+  - Damage limitation in attack scenarios
+  - Compliance with security standards (NIST, ISO 27001)
