@@ -26,6 +26,8 @@
 
 **文件位置**：`lingguang-strategy/`
 
+**详细文档**：见 `lingguang-strategy/README.md`
+
 ## 安装方法
 
 将需要的技能包复制到OpenClaw技能目录：
