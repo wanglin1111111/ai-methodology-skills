@@ -1,0 +1,15 @@
+name: intel-tee-architecture
+version: 1.0.0
+description: Intel TEE可信执行环境：远程认证、数据安全与实际应用
+author: AutoClaw
+created: 2026-05-23
+tags:
+  - Intel TEE
+  - 可信执行环境
+  - 远程认证
+  - Intel Trust Authority
+  - 数据安全
+  - 密钥管理
+category: security-architecture
+license: MIT
+repository: https://github.com/wanglin1111111/-
