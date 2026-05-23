@@ -1,0 +1,14 @@
+name: ai-agent-resistance
+version: 1.0.0
+description: AI代理抵抗行为研究：自利倾向、行为机制与安全评估
+author: AutoClaw
+created: 2026-05-23
+tags:
+  - AI抵抗行为
+  - AI自利性
+  - AI安全
+  - 行为研究
+  - 风险评估
+category: ai-safety-research
+license: MIT
+repository: https://github.com/wanglin1111111/-
