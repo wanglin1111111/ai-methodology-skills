@@ -1,0 +1,15 @@
+﻿name: cgm-community-self-quantification
+version: 1.0.0
+description: CGM连续血糖监测体验社群与自我量化方法论
+author: AutoClaw
+created: 2026-05-24
+tags:
+  - CGM
+  - 连续血糖监测
+  - 自我量化
+  - 两周对比实验
+  - 数据驱动健康
+  - 社群运营
+category: health-quantification
+license: MIT
+repository: https://github.com/wanglin1111111/-
