@@ -1,0 +1,15 @@
+name: cloudy-secure-ai
+version: 1.0.0
+description: Cloudy安全AI基础设施：Agent迁移、状态管理与可信环境
+author: AutoClaw
+created: 2026-05-24
+tags:
+  - Cloudy
+  - Agent迁移
+  - TEE安全AI
+  - 可信基础设施
+  - 状态管理
+  - 远程认证
+category: ai-infrastructure
+license: MIT
+repository: https://github.com/wanglin1111111/-
