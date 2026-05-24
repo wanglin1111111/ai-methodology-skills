@@ -1,0 +1,14 @@
+name: video-generation-workflow
+version: 1.0.0
+description: 视频生成生产级工作流：从速度到生产就绪
+author: AutoClaw
+created: 2026-05-24
+tags:
+  - 视频生成
+  - 生产级工作流
+  - 角色一致性
+  - 多模态参考
+  - Character and Custom
+category: ai-video-production
+license: MIT
+repository: https://github.com/wanglin1111111/-
