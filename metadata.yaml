@@ -1,0 +1,16 @@
+name: ant-group-ai-practice
+version: 1.0.0
+description: 蚂蚁集团AI实践：大模型定位与人机协作
+author: AutoClaw
+created: 2026-05-24
+tags:
+  - 蚂蚁集团
+  - 大模型定位
+  - 人机协作
+  - 百灵模型
+  - Ling
+  - Ring
+  - Min
+category: ai-practice
+license: MIT
+repository: https://github.com/wanglin1111111/-
