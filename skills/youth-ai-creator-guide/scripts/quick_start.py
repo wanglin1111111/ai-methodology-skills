@@ -1,55 +1,51 @@
-#!/usr/bin/env python3
-"""
-Youth AI Creator - Quick Start Script
-青少年AI创作快速开始脚本
-"""
-
-import json
+﻿#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 import sys
+import io
+
+# 设置标准输出编码为UTF-8
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+
 from datetime import datetime
-from pathlib import Path
+import json
 
 
 def display_banner():
-    """显示欢迎横幅"""
-    print("\n" + "="*60)
-    print("🚀 青少年AI创作指南 - 快速开始")
-    print("="*60 + "\n")
+    print("="*60)
+    print("青少年AI创作指南 - 快速开始")
+    print("="*60)
 
 
 def show_intro():
-    """显示简介"""
-    print("欢迎来到AI创作的世界！")
+    print("\n欢迎来到AI创作的世界！")
     print("在这里，你将学习如何用AI工具创造有趣的作品。\n")
-    print("📚 你将学习到：")
-    print("  • AI是什么以及如何工作")
-    print("  • 如何创建你的第一个AI作品")
-    print("  • 如何不断改进你的作品")
-    print("  • 如何分享和展示你的创作\n")
+    print("你将学习到：")
+    print("  - AI是什么以及如何工作")
+    print("  - 如何创建你的第一个AI作品")
+    print("  - 如何不断改进你的作品")
+    print("  - 如何分享和展示你的创作\n")
 
 
 def show_learning_path():
-    """显示学习路径"""
     print("="*60)
-    print("🛤️  学习路径")
+    print("学习路径")
     print("="*60 + "\n")
     
     stages = [
-        ("启蒙期", "0-100小时", "了解AI，创建第一个作品", "🎯"),
-        ("成长期", "100-500小时", "掌握更多工具，创作更复杂作品", "📈"),
-        ("突破期", "500-1000小时", "产出有影响力的作品", "⭐"),
-        ("成熟期", "1000+小时", "成为AI创作领域的专家", "🏆"),
+        ("启蒙期", "0-100小时", "了解AI，创建第一个作品"),
+        ("成长期", "100-500小时", "掌握更多工具，创作更复杂作品"),
+        ("突破期", "500-1000小时", "产出有影响力的作品"),
+        ("成熟期", "1000+小时", "成为AI创作领域的专家"),
     ]
     
-    for stage, hours, goal, icon in stages:
-        print(f"{icon} {stage} ({hours})")
+    for i, (stage, hours, goal) in enumerate(stages, 1):
+        print(f"{i}. {stage} ({hours})")
         print(f"   目标: {goal}\n")
 
 
 def show_quick_start():
-    """显示快速开始指南"""
     print("="*60)
-    print("⚡ 快速开始：创建你的第一个AI作品")
+    print("快速开始：创建你的第一个AI作品")
     print("="*60 + "\n")
     
     steps = [
@@ -62,13 +58,12 @@ def show_quick_start():
     
     for i, (title, desc) in enumerate(steps, 1):
         print(f"  {i}. {title}")
-        print(f"     → {desc}\n")
+        print(f"     -> {desc}\n")
 
 
 def show_motivation():
-    """显示动力提示"""
     print("="*60)
-    print("💪 记住：每个大师都曾是新手")
+    print("记住：每个大师都曾是新手")
     print("="*60 + "\n")
     
     tips = [
@@ -80,13 +75,12 @@ def show_motivation():
     ]
     
     for tip in tips:
-        print(f"  • {tip}")
+        print(f"  - {tip}")
     
     print()
 
 
 def create_project_template():
-    """创建项目模板"""
     template = {
         "project_name": "我的第一个AI作品",
         "created_date": datetime.now().strftime("%Y-%m-%d"),
@@ -99,14 +93,13 @@ def create_project_template():
         "solutions": "如何解决的",
     }
     
-    print("📄 创建项目记录模板...")
+    print("创建项目记录模板...")
     print(json.dumps(template, ensure_ascii=False, indent=2))
     
     return template
 
 
 def main():
-    """主函数"""
     display_banner()
     show_intro()
     show_learning_path()
@@ -115,9 +108,9 @@ def main():
     create_project_template()
     
     print("\n" + "="*60)
-    print("✅ 准备开始你的AI创作之旅！")
+    print("准备开始你的AI创作之旅！")
     print("="*60 + "\n")
-    print("💡 提示：查看SKILL.md获取完整的学习指南\n")
+    print("提示：查看SKILL.md获取完整的学习指南\n")
 
 
 if __name__ == "__main__":
