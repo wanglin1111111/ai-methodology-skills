@@ -52,6 +52,19 @@
 | `edge-cloud-architecture` | 端云结合架构设计（实时端侧+复杂云端） | 系统架构 |
 | `agent-architecture-value` | Agent架构价值框架（机器人的操作系统） | AI架构 |
 
+### 大模型技术与评估类 🆕
+
+| 技能名称 | 描述 | 分类 |
+|---------|------|------|
+| `llm-development-stages` | 大模型技术发展阶段分析框架（三阶段、落地速度快于预期） | 技术发展 |
+| `ai-model-gap-strategy` | 中外AI模型差距评估与追赶策略（6个月到1年差距、人才回流） | 技术差距 |
+| `long-horizon-task-design` | 长程复杂任务设计方法论（跨阶段、无标准答案、自规划） | 任务设计 |
+| `reinforcement-learning-application` | 强化学习应用框架（任务执行、反馈收集、迭代优化） | 技术应用 |
+| `ai-model-evaluation-system` | AI模型评估体系构建（标准任务、开放式长程任务、前端编程效果） | 评估体系 |
+| `tech-path-selection-fusion` | 技术路径选择与融合策略（视觉路径 vs 代码路径） | 技术路径 |
+| `internal-innovation-mechanism` | 企业内部创新机制设计（不受现有路径约束、自由探索前沿） | 创新机制 |
+| `first-principles-for-ai-founders` | AI创业者第一性原理思维（从人的需求出发、保持想象力） | 创业思维 |
+
 ### 核心方法论类
 
 | 技能名称 | 描述 | 分类 |
