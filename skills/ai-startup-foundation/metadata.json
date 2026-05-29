@@ -1,0 +1,15 @@
+{
+  "name": "ai-startup-foundation",
+  "version": "1.0.0",
+  "author": "Anonymous Startup Mentor",
+  "license": "MIT",
+  "description": "AI创业基础框架，整合创业动机、常见挑战与风险管理",
+  "keywords": ["ai-startup", "startup-foundation", "entrepreneurship", "risk-management"],
+  "category": "startup",
+  "merged_from": [
+    "ai-startup-motivation",
+    "ai-startup-challenges",
+    "ai-startup-risk-management"
+  ],
+  "merge_date": "2026-05-29"
+}
