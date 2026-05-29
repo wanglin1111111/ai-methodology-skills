@@ -1,0 +1,35 @@
+{
+  "timestamp": "2026-05-29T08:43:28.885555",
+  "repository": "C:\\Users\\22812\\Documents\\GitHub\\-",
+  "phases": [
+    {
+      "name": "Phase 1: 命名规范治理",
+      "priority": "P0",
+      "status": "脚本已创建",
+      "action": "运行 scripts/normalize_naming.py"
+    },
+    {
+      "name": "Phase 2: 质量门禁建设",
+      "priority": "P0",
+      "status": "脚本已创建",
+      "action": "运行 scripts/quality_gate.py"
+    },
+    {
+      "name": "Phase 3: 标准化流程",
+      "priority": "P1",
+      "status": "模板已创建",
+      "action": "使用 SKILL_TEMPLATE.md"
+    },
+    {
+      "name": "Phase 4: 持续优化",
+      "priority": "P2",
+      "status": "待实施",
+      "action": "建立定期审计机制"
+    }
+  ],
+  "created_files": [
+    "scripts/normalize_naming.py",
+    "scripts/quality_gate.py",
+    "SKILL_TEMPLATE.md"
+  ]
+}
