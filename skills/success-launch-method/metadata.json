@@ -1,0 +1,12 @@
+{
+  "name": "success-launch-method",
+  "version": "1.0.0",
+  "description": "AI skill: success-launch-method",
+  "author": "wanglin1111111",
+  "tags": ["ai", "skill"],
+  "category": "other",
+  "stability": "stable",
+  "entry": "SKILL.md",
+  "created_at": "2026-05-29",
+  "updated_at": "2026-05-29"
+}

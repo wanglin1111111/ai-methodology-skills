@@ -1,0 +1,12 @@
+{
+  "name": "tech-to-asset-transformation",
+  "version": "1.0.0",
+  "description": "AI skill: tech-to-asset-transformation",
+  "author": "wanglin1111111",
+  "tags": ["ai", "skill"],
+  "category": "other",
+  "stability": "stable",
+  "entry": "SKILL.md",
+  "created_at": "2026-05-29",
+  "updated_at": "2026-05-29"
+}

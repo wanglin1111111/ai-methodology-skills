@@ -1,0 +1,12 @@
+{
+  "name": "first-principles-for-ai-founders",
+  "version": "1.0.0",
+  "description": "AI skill: first-principles-for-ai-founders",
+  "author": "wanglin1111111",
+  "tags": ["ai", "skill"],
+  "category": "other",
+  "stability": "stable",
+  "entry": "SKILL.md",
+  "created_at": "2026-05-29",
+  "updated_at": "2026-05-29"
+}
