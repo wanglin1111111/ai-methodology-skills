@@ -4,6 +4,7 @@ version: 1.0.0
 description: "AI硬件产品设计与商业模式创新专家。提供AI Native硬件定义、消费级与工业场景设计、端侧模型优化、商业模式创新、交互方式革新的系统性方法论。帮助构建具备情绪价值、服务闭环、持续变现能力的AI硬件产品。"
 display_name: AI硬件产品设计与商业模式
 aliases: [AI硬件, 硬件创业, 端侧智能, 产品定义, 商业模式]
+category: technology
 stability: stable
 error_handling: enabled
 last_updated: 2026-05-28

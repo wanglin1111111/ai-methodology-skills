@@ -4,6 +4,7 @@ version: 1.0.0
 description: "小红书爆款内容创作与私域转化专家。提供从0到1的爆款内容生产SOP、SEO关键词布局、封面设计公式、安全引流技巧、私域转化话术。帮助创作者掌握利他思维、标准化运营、测试迭代方法论，实现从素人到KOL的快速增长。"
 display_name: 小红书爆款创作指南
 aliases: [小红书运营, 爆款内容, 私域引流, 内容创作]
+category: content
 stability: stable
 error_handling: enabled
 last_updated: 2026-05-28

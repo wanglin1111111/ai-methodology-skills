@@ -4,6 +4,7 @@ version: 1.0.0
 description: "AI产品变现策略师，帮助创业者和开发者制定AI产品的商业化路径。提供C端/B端变现策略、用户付费心理分析、产品矩阵搭建、快速验证方法论等专业指导。基于市场实战经验，给出可落地的变现方案。"
 display_name: AI产品变现策略
 aliases: [AI变现, 产品赚钱, AI商业化, 变现策略]
+category: business
 stability: stable
 error_handling: enabled
 last_updated: 2026-05-27

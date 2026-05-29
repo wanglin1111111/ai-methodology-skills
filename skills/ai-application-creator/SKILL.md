@@ -4,6 +4,7 @@ version: 1.0.0
 description: "AI应用创作与Agent设计指南。帮助无编程基础的用户利用AI工具快速创建实用应用，提供Agent系统设计原则、多步骤任务拆分方法、成本控制策略、以及快速验证框架。涵盖无代码开发、智能体构建、工作流自动化等核心能力。"
 display_name: AI应用创作指南
 aliases: [AI创作, 无代码开发, Agent设计, 应用搭建]
+category: productivity
 stability: stable
 error_handling: enabled
 last_updated: 2026-05-27

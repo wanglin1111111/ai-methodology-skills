@@ -4,6 +4,7 @@ version: 1.0.0
 description: "AI工作流自动化专家，帮助用户将重复性工作沉淀为可复用的AI技能。提供自然语言创建skill的方法论、Office自动化处理、定时任务设置、多数据源整合等能力。无需编程基础，人人都能创建专属AI助手。"
 display_name: AI工作流自动化
 aliases: [工作流自动化, AI技能创建, 自动化处理, 智能工作流]
+category: productivity
 stability: stable
 error_handling: enabled
 last_updated: 2026-05-27

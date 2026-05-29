@@ -4,6 +4,7 @@ version: 1.0.0
 description: "Solo创业者（独立创业者）获客与销售自动化专家。提供从0到1的获客策略、销售线索自动化、工具使用指南、内容营销方法论。帮助独立创业者建立月入3000-30000美元的营收线，实现一人公司的可持续增长。"
 display_name: Solo创业者增长指南
 aliases: [独立创业, 一人公司, solo创业, 获客自动化]
+category: business
 stability: stable
 error_handling: enabled
 last_updated: 2026-05-27

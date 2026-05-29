@@ -4,6 +4,7 @@ version: 1.0.0
 description: "端侧智能与Agent系统设计专家。提供端侧模型推理引擎优化、内存管理、经验复用系统、云边协同架构设计。帮助构建具备感知、记忆、决策、执行能力的端侧智能体，实现隐私安全、低功耗、高效率的本地AI应用。"
 display_name: 端侧智能与Agent系统
 aliases: [端侧AI, 边缘计算, 智能体设计, 本地推理, 端侧Agent]
+category: technology
 stability: stable
 error_handling: enabled
 last_updated: 2026-05-28
