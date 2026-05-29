@@ -22,6 +22,7 @@ keywords:
   - teen-programming
   - ai-education
 category: education
+stability: stable
 ---
 
 # Youth AI Creator Guide

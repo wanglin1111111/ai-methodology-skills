@@ -20,6 +20,7 @@ keywords:
   - value-realization
   - junzi-not-qi
 category: life-strategy
+stability: stable
 ---
 
 # Personal Charisma Building

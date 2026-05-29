@@ -20,6 +20,7 @@ keywords:
   - industry-heat
   - window-strategy
 category: strategy
+stability: stable
 ---
 
 # Opportunity Window Strategy

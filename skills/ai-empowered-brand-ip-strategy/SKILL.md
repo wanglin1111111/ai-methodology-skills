@@ -20,6 +20,7 @@ keywords:
   - omnichannel-communication
   - user-experience
 category: brand-strategy
+stability: stable
 ---
 
 # AI Empowered Brand IP Strategy

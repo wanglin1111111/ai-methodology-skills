@@ -20,6 +20,7 @@ keywords:
   - ability-configuration
   - competition-framework
 category: competition
+stability: stable
 ---
 
 # Full-Stack Competition Framework

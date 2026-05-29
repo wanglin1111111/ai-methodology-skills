@@ -20,6 +20,7 @@ keywords:
   - task-execution
   - rl-application
 category: technology
+stability: stable
 ---
 
 # Reinforcement Learning Application

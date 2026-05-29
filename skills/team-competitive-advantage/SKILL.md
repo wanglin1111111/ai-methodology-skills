@@ -22,6 +22,7 @@ keywords:
   - user-understanding
   - full-stack-integration
 category: team
+stability: stable
 ---
 
 # Team Competitive Advantage

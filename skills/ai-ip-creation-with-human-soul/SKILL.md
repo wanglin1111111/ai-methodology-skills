@@ -20,6 +20,7 @@ keywords:
   - soul-injection
   - ip-image
 category: content-strategy
+stability: stable
 ---
 
 # AI IP Creation with Human Soul

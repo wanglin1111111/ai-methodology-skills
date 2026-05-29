@@ -22,6 +22,7 @@ keywords:
   - humanoid-robot
   - ai-robotics
 category: emerging-tech
+stability: stable
 ---
 
 # Embodied AI Insights

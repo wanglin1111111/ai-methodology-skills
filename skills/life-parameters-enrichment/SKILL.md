@@ -20,6 +20,7 @@ keywords:
   - life-expansion
   - action-driving
 category: life-strategy
+stability: stable
 ---
 
 # Life Parameters Enrichment

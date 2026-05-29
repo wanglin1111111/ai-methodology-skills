@@ -1,11 +1,17 @@
-# SKILL.md - AI智能体运营框架
-
 ---
 name: ai-agent-operation-framework
-description: AI智能体运营框架，涵盖数字员工部署、智能体管理、一人带机器人工作模式，帮助企业从管人向管智能体转变
-keywords: [AI智能体, 数字员工, 智能体管理, AI运营, 一人带机器人, Agent运营, 企业AI转型]
 version: 1.0.0
 author: Anonymous AI Operations Expert
+license: MIT
+description: AI智能体运营框架，涵盖数字员工部署、智能体管理、一人带机器人工作模式，帮助企业从管人向管智能体转变
+keywords:
+  - AI智能体
+  - 数字员工
+  - 智能体管理
+  - AI运营
+  - 一人带机器人
+category: general
+stability: stable
 ---
 
 # AI智能体运营框架

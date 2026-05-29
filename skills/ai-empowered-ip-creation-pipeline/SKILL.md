@@ -1,11 +1,17 @@
-# SKILL.md - AI赋能IP创作管线方法论
-
 ---
 name: ai-empowered-ip-creation-pipeline
-description: AI赋能IP创作管线方法论，涵盖AI漫剧、AI短视频营销、AI陪伴交互等核心管线，实现IP人格设定、叙事体系构建、虚拟IP打造
-keywords: [AI漫剧, AI短视频营销, AI陪伴交互, IP创作管线, 虚拟IP, AI内容创作, IP人格设定, 叙事体系构建]
 version: 1.0.0
 author: Anonymous AI Content Creation Expert
+license: MIT
+description: AI赋能IP创作管线方法论，涵盖AI漫剧、AI短视频营销、AI陪伴交互等核心管线，实现IP人格设定、叙事体系构建、虚拟IP打造
+keywords:
+  - AI漫剧
+  - AI短视频营销
+  - AI陪伴交互
+  - IP创作管线
+  - 虚拟IP
+category: general
+stability: stable
 ---
 
 # AI赋能IP创作管线方法论

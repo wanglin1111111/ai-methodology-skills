@@ -20,6 +20,7 @@ keywords:
   - supply-side-personality
   - demand-side-personality
 category: founder
+stability: stable
 ---
 
 # Founder Style Adaptation

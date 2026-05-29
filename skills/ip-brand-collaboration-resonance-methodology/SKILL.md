@@ -1,11 +1,17 @@
-# SKILL.md - IP品牌联名情感共鸣方法论
-
 ---
 name: ip-brand-collaboration-resonance-methodology
-description: IP品牌联名情感共鸣方法论，实现从角色、故事到商品、体验的完整链路，将产品销售转化为情感共鸣与价值认同
-keywords: [IP联名, 品牌联名, 情感共鸣, 价值认同, IP赋能品牌, IP商业化, IP授权, 用户链接与复购]
 version: 1.0.0
 author: Anonymous Brand Collaboration Expert
+license: MIT
+description: IP品牌联名情感共鸣方法论，实现从角色、故事到商品、体验的完整链路，将产品销售转化为情感共鸣与价值认同
+keywords:
+  - IP联名
+  - 品牌联名
+  - 情感共鸣
+  - 价值认同
+  - IP赋能品牌
+category: general
+stability: stable
 ---
 
 # IP品牌联名情感共鸣方法论

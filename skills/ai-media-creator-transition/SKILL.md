@@ -20,6 +20,7 @@ keywords:
   - continuous-output
   - ai-content
 category: career-strategy
+stability: stable
 ---
 
 # AI Media Creator Transition

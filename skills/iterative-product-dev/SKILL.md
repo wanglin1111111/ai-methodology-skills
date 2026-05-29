@@ -22,6 +22,7 @@ keywords:
   - user-feedback
   - continuous-improvement
 category: methodology
+stability: stable
 ---
 
 # Iterative Product Development

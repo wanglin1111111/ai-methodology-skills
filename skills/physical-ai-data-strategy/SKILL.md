@@ -22,6 +22,7 @@ keywords:
   - data-strategy
   - embodied-ai
 category: data
+stability: stable
 ---
 
 # Physical AI Data Strategy

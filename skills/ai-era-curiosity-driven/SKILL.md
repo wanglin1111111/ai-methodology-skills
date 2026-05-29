@@ -20,6 +20,7 @@ keywords:
   - ai-era-exploration
   - curiosity-cultivation
 category: life-strategy
+stability: stable
 ---
 
 # AI Era Curiosity Driven

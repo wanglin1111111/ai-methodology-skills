@@ -1,11 +1,17 @@
-# SKILL.md - 数字IP生态构建方法论
-
 ---
 name: digital-ip-ecosystem-methodology
-description: 数字IP生态构建方法论，涵盖IP定义、核心能力设计、用户共创生态、品牌赋能路径，帮助企业打造可持续运营的IP生态体系
-keywords: [数字IP, IP生态, 用户共创, 品牌赋能, IP核心能力, 跨媒介运营, IP商业化, IP授权]
 version: 1.0.0
 author: Anonymous IP Strategy Expert
+license: MIT
+description: 数字IP生态构建方法论，涵盖IP定义、核心能力设计、用户共创生态、品牌赋能路径，帮助企业打造可持续运营的IP生态体系
+keywords:
+  - 数字IP
+  - IP生态
+  - 用户共创
+  - 品牌赋能
+  - IP核心能力
+category: general
+stability: stable
 ---
 
 # 数字IP生态构建方法论

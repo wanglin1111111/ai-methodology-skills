@@ -22,6 +22,7 @@ keywords:
   - work-inertia
   - ai-entrepreneurship
 category: entrepreneurship
+stability: stable
 ---
 
 # AI Startup Challenges Guide

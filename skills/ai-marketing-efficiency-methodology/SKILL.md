@@ -1,11 +1,17 @@
-# SKILL.md - AI营销提效方法论
-
 ---
 name: ai-marketing-efficiency-methodology
-description: AI营销提效方法论，涵盖AI内容生成、受众定位、效果优化、热点捕捉，帮助品牌实现营销提效同时保障品牌溢价
-keywords: [AI营销, 营销提效, AI内容生成, 受众定位, 效果优化, 热点营销, 品牌溢价, 差异化创意]
 version: 1.0.0
 author: Anonymous Marketing Strategist
+license: MIT
+description: AI营销提效方法论，涵盖AI内容生成、受众定位、效果优化、热点捕捉，帮助品牌实现营销提效同时保障品牌溢价
+keywords:
+  - AI营销
+  - 营销提效
+  - AI内容生成
+  - 受众定位
+  - 效果优化
+category: general
+stability: stable
 ---
 
 # AI营销提效方法论

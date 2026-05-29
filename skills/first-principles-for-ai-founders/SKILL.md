@@ -20,6 +20,7 @@ keywords:
   - path-dependency
   - imagination
 category: founder
+stability: stable
 ---
 
 # First Principles for AI Founders

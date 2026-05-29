@@ -20,6 +20,7 @@ keywords:
   - demand-verification
   - ai-era-scarcity
 category: life-strategy
+stability: stable
 ---
 
 # Demand Expression Ability

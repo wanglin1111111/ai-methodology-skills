@@ -1,11 +1,17 @@
-# SKILL.md - AI第二增长曲线布局策略
-
 ---
 name: ai-second-growth-curve-strategy
-description: AI第二增长曲线布局策略，帮助传统企业将AI作为新增长曲线，涵盖产线布局、市场定位、生态合作、转型路径
-keywords: [第二增长曲线, AI产线布局, 传统企业转型, AI赛道布局, 增长曲线策略, AI转型路径, 企业AI战略]
 version: 1.0.0
 author: Anonymous Business Strategy Expert
+license: MIT
+description: AI第二增长曲线布局策略，帮助传统企业将AI作为新增长曲线，涵盖产线布局、市场定位、生态合作、转型路径
+keywords:
+  - 第二增长曲线
+  - AI产线布局
+  - 传统企业转型
+  - AI赛道布局
+  - 增长曲线策略
+category: general
+stability: stable
 ---
 
 # AI第二增长曲线布局策略

@@ -22,6 +22,7 @@ keywords:
   - development-workflow
   - launch-strategy
 category: methodology
+stability: stable
 ---
 
 # Success Launch Method

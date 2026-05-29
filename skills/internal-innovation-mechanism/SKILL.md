@@ -20,6 +20,7 @@ keywords:
   - frontier-exploration
   - innovation-vitality
 category: innovation
+stability: stable
 ---
 
 # Internal Innovation Mechanism

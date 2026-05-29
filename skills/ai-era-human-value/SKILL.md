@@ -20,6 +20,7 @@ keywords:
   - core-value
   - ai-era-positioning
 category: life-strategy
+stability: stable
 ---
 
 # AI Era Human Value

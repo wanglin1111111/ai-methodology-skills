@@ -22,6 +22,7 @@ keywords:
   - breakthrough-inertia
   - entrepreneurial-action
 category: entrepreneurship
+stability: stable
 ---
 
 # Founder Action Guide

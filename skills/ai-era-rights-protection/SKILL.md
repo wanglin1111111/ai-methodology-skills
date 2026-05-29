@@ -22,6 +22,7 @@ keywords:
   - authorization-model
   - legal-protection
 category: legal
+stability: stable
 ---
 
 # AI Era Rights Protection

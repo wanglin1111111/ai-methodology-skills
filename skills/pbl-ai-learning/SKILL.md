@@ -22,6 +22,7 @@ keywords:
   - ai-learning
   - practical-learning
 category: education
+stability: stable
 ---
 
 # Project-Based Learning in AI Creation

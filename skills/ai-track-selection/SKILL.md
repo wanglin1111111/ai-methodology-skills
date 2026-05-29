@@ -22,6 +22,7 @@ keywords:
   - track-analysis
   - ai-sector
 category: strategy
+stability: stable
 ---
 
 # AI Track Selection Guide

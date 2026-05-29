@@ -20,6 +20,7 @@ keywords:
   - rapid-response
   - change-velocity
 category: strategy
+stability: stable
 ---
 
 # AI Industry Change Velocity

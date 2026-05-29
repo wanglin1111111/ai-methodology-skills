@@ -20,6 +20,7 @@ keywords:
   - one-person-team
   - ai-era-career
 category: career-strategy
+stability: stable
 ---
 
 # AI Era Professional Redefinition

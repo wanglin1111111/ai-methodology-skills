@@ -20,6 +20,7 @@ keywords:
   - warehouse-system
   - professional-service
 category: business-strategy
+stability: stable
 ---
 
 # AI Supply Chain Optimization

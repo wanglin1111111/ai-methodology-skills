@@ -20,6 +20,7 @@ keywords:
   - model-capability
   - evaluation-method
 category: technology
+stability: stable
 ---
 
 # AI Model Evaluation System

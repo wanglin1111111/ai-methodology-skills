@@ -22,6 +22,7 @@ keywords:
   - service-design
   - value-reconstruction
 category: product
+stability: stable
 ---
 
 # End-to-End Service Design

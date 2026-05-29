@@ -20,6 +20,7 @@ keywords:
   - recognizability
   - unique-question
 category: life-strategy
+stability: stable
 ---
 
 # Personal Uniqueness Building

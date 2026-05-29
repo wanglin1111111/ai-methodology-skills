@@ -20,6 +20,7 @@ keywords:
   - industry-bubble
   - bubble-response
 category: market
+stability: stable
 ---
 
 # Bubble Judgment Framework

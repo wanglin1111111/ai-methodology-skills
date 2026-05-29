@@ -1,11 +1,17 @@
-# SKILL.md - AI与创意协同框架
-
 ---
 name: ai-creative-synergy-framework
-description: AI与创意协同工作框架，解决AI工具普及可能导致创意能力退化问题，建立AI与人的协同机制保障创意输出质量
-keywords: [AI创意协同, AI创意能力, 创意能力退化, AI内容生成, 人类创意, 品牌创意, 创意质量保障]
 version: 1.0.0
 author: Anonymous Creative Strategist
+license: MIT
+description: AI与创意协同工作框架，解决AI工具普及可能导致创意能力退化问题，建立AI与人的协同机制保障创意输出质量
+keywords:
+  - AI创意协同
+  - AI创意能力
+  - 创意能力退化
+  - AI内容生成
+  - 人类创意
+category: general
+stability: stable
 ---
 
 # AI与创意协同框架

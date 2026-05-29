@@ -21,6 +21,7 @@ keywords:
   - no-inflection-point
   - dynamic-strategy
 category: growth
+stability: stable
 ---
 
 # Dynamic Growth Methodology

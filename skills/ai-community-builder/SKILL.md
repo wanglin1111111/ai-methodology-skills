@@ -22,6 +22,7 @@ keywords:
   - networking
   - community-management
 category: community
+stability: stable
 ---
 
 # AI Community Builder

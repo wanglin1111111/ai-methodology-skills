@@ -22,6 +22,7 @@ keywords:
   - differentiation
   - vertical-saas
 category: entrepreneurship
+stability: stable
 ---
 
 # Vertical AI Startup Guide

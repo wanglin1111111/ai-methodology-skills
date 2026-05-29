@@ -22,6 +22,7 @@ keywords:
   - business-expansion
   - capability-framework
 category: operations
+stability: stable
 ---
 
 # Large Scale Capability Building

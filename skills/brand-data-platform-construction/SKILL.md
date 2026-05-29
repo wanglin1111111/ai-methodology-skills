@@ -1,11 +1,17 @@
-# SKILL.md - 品牌数据中台建设方法论
-
 ---
 name: brand-data-platform-construction
-description: 品牌数据中台建设方法论，涵盖数据平台架构、产品溯源系统、AI智能化中台、区域适配机制，帮助品牌实现数据打通与智能化管理
-keywords: [品牌数据中台, 数据平台建设, 产品溯源, AI智能化, 区域适配, 数据打通, 跨国品牌数据]
 version: 1.0.0
 author: Anonymous Data Strategist
+license: MIT
+description: 品牌数据中台建设方法论，涵盖数据平台架构、产品溯源系统、AI智能化中台、区域适配机制，帮助品牌实现数据打通与智能化管理
+keywords:
+  - 品牌数据中台
+  - 数据平台建设
+  - 产品溯源
+  - AI智能化
+  - 区域适配
+category: general
+stability: stable
 ---
 
 # 品牌数据中台建设方法论

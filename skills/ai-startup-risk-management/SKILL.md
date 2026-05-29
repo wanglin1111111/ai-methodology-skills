@@ -22,6 +22,7 @@ keywords:
   - risk-management
   - startup-survival
 category: entrepreneurship
+stability: stable
 ---
 
 # AI Startup Risk Management

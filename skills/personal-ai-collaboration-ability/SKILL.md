@@ -1,11 +1,17 @@
-# SKILL.md - 个人AI协作能力培养方法论
-
 ---
 name: personal-ai-collaboration-ability
-description: 个人AI协作能力培养方法论，帮助个人适应一人带机器人的工作模式，培养AI工具应用、智能体协作、决策判断、创新能力
-keywords: [AI协作能力, 一人带机器人, AI工具应用, 智能体协作, AI决策判断, AI创新能力, 个人能力转变]
 version: 1.0.0
 author: Anonymous Personal Development Expert
+license: MIT
+description: 个人AI协作能力培养方法论，帮助个人适应一人带机器人的工作模式，培养AI工具应用、智能体协作、决策判断、创新能力
+keywords:
+  - AI协作能力
+  - 一人带机器人
+  - AI工具应用
+  - 智能体协作
+  - AI决策判断
+category: general
+stability: stable
 ---
 
 # 个人AI协作能力培养方法论

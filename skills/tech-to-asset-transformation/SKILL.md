@@ -20,6 +20,7 @@ keywords:
   - cycle-crossing
   - tech-commercialization
 category: strategy
+stability: stable
 ---
 
 # Tech to Asset Transformation

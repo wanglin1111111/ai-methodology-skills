@@ -22,6 +22,7 @@ keywords:
   - wellness-ai
   - ai-for-wellness
 category: wellness
+stability: stable
 ---
 
 # Emotional AI Companion

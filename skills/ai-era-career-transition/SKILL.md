@@ -22,6 +22,7 @@ keywords:
   - differentiation-strategy
   - skill-development
 category: career
+stability: stable
 ---
 
 # AI Era Career Transition Guide

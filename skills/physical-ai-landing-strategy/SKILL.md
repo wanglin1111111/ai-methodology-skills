@@ -1,11 +1,17 @@
-# SKILL.md - Physical AI落地策略
-
 ---
 name: physical-ai-landing-strategy
-description: Physical AI（实体AI）落地策略，涵盖具身机器人、陪伴机器人等实体AI部署，推动消费从线上回归线下，拓展消费场景新维度
-keywords: [Physical AI, 实体AI, 具身机器人, 陪伴机器人, 线下AI场景, 线上线下协同, 消费回归线下]
 version: 1.0.0
 author: Anonymous Physical AI Expert
+license: MIT
+description: Physical AI（实体AI）落地策略，涵盖具身机器人、陪伴机器人等实体AI部署，推动消费从线上回归线下，拓展消费场景新维度
+keywords:
+  - Physical AI
+  - 实体AI
+  - 具身机器人
+  - 陪伴机器人
+  - 线下AI场景
+category: general
+stability: stable
 ---
 
 # Physical AI落地策略

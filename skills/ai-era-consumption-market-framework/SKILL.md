@@ -1,11 +1,17 @@
-# SKILL.md - AI时代消费市场变革应对框架
-
 ---
 name: ai-era-consumption-market-framework
-description: AI时代消费市场变革应对框架，涵盖消费两极分化分析、IP经济爆发、情绪价值消费、AI对产业影响、未来生活形态预判、当下应对策略
-keywords: [消费市场变革, IP经济, 情绪价值消费, AI产业影响, 消费两极分化, A to A经济, Physical AI, AI应用标杆]
 version: 1.0.0
 author: Anonymous Market Analyst
+license: MIT
+description: AI时代消费市场变革应对框架，涵盖消费两极分化分析、IP经济爆发、情绪价值消费、AI对产业影响、未来生活形态预判、当下应对策略
+keywords:
+  - 消费市场变革
+  - IP经济
+  - 情绪价值消费
+  - AI产业影响
+  - 消费两极分化
+category: general
+stability: stable
 ---
 
 # AI时代消费市场变革应对框架

@@ -22,6 +22,7 @@ keywords:
   - personal-brand
   - individuality
 category: development
+stability: stable
 ---
 
 # Personal Differentiation Value

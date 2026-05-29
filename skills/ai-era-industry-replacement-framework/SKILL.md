@@ -1,11 +1,17 @@
-# SKILL.md - AI时代产业替代与人类转型框架
-
 ---
 name: ai-era-industry-replacement-framework
-description: AI时代产业替代与人类转型框架，分析90%制造生产将被AI替代的趋势，帮助个人和企业向个性化、情感陪伴类活动转型
-keywords: [AI替代, 产业变革, 人类转型, 个性化活动, 情感陪伴, 制造业替代, AI时代转型, 新人类价值]
 version: 1.0.0
 author: Anonymous Industry Transformation Expert
+license: MIT
+description: AI时代产业替代与人类转型框架，分析90%制造生产将被AI替代的趋势，帮助个人和企业向个性化、情感陪伴类活动转型
+keywords:
+  - AI替代
+  - 产业变革
+  - 人类转型
+  - 个性化活动
+  - 情感陪伴
+category: general
+stability: stable
 ---
 
 # AI时代产业替代与人类转型框架

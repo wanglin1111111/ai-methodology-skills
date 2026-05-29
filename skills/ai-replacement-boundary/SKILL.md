@@ -22,6 +22,7 @@ keywords:
   - irreplaceable-value
   - capability-boundary
 category: analysis
+stability: stable
 ---
 
 # AI Replacement Boundary Analysis

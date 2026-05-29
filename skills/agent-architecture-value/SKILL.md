@@ -22,6 +22,7 @@ keywords:
   - operating-system
   - ai-system
 category: architecture
+stability: stable
 ---
 
 # Agent Architecture Value

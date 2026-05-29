@@ -22,6 +22,7 @@ keywords:
   - computing-optimization
   - ai-architecture
 category: architecture
+stability: stable
 ---
 
 # Edge-Cloud Architecture

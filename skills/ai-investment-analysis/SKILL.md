@@ -22,6 +22,7 @@ keywords:
   - investment-opportunity
   - ai-valuation
 category: investment
+stability: stable
 ---
 
 # AI Investment Analysis Framework

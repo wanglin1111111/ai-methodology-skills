@@ -22,6 +22,7 @@ keywords:
   - technology-path
   - tech-migration
 category: technology
+stability: stable
 ---
 
 # Tech Transition Methodology

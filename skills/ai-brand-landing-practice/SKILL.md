@@ -1,11 +1,17 @@
-# SKILL.md - AI品牌落地实践框架
-
 ---
 name: ai-brand-landing-practice
-description: AI品牌全链路落地实践框架，涵盖原料/生产、仓储/物流、电商/销售、营销/推广各环节AI应用，帮助品牌实现AI全链路赋能
-keywords: [AI品牌落地, AI全链路, AI生产管理, AI仓储管理, AI电商运营, AI数字人直播, 品牌数据中台]
 version: 1.0.0
 author: Anonymous Brand Practitioner
+license: MIT
+description: AI品牌全链路落地实践框架，涵盖原料/生产、仓储/物流、电商/销售、营销/推广各环节AI应用，帮助品牌实现AI全链路赋能
+keywords:
+  - AI品牌落地
+  - AI全链路
+  - AI生产管理
+  - AI仓储管理
+  - AI电商运营
+category: general
+stability: stable
 ---
 
 # AI品牌落地实践框架

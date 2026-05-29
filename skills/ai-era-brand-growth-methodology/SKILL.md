@@ -1,11 +1,17 @@
-# SKILL.md - AI时代品牌增长方法论
-
 ---
 name: ai-era-brand-growth-methodology
-description: AI时代品牌增长全链路方法论，涵盖AI营销赋能、技术赋能到品牌落地实践，帮助品牌在AI时代实现增长突破
-keywords: [AI品牌增长, AI营销赋能, AI技术赋能, 品牌落地实践, AI全链路, 品牌溢价, 差异化创意]
 version: 1.0.0
 author: Anonymous Brand Strategist
+license: MIT
+description: AI时代品牌增长全链路方法论，涵盖AI营销赋能、技术赋能到品牌落地实践，帮助品牌在AI时代实现增长突破
+keywords:
+  - AI品牌增长
+  - AI营销赋能
+  - AI技术赋能
+  - 品牌落地实践
+  - AI全链路
+category: general
+stability: stable
 ---
 
 # AI时代品牌增长方法论

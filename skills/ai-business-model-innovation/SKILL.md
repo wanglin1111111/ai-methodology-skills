@@ -22,6 +22,7 @@ keywords:
   - software-industry
   - pricing-strategy
 category: business
+stability: stable
 ---
 
 # AI Business Model Innovation

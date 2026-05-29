@@ -20,6 +20,7 @@ keywords:
   - open-ended-task
   - self-planning
 category: product
+stability: stable
 ---
 
 # Long Horizon Task Design

@@ -22,6 +22,7 @@ keywords:
   - learning-efficiency
   - ai-for-education
 category: education
+stability: stable
 ---
 
 # Educational AI Design

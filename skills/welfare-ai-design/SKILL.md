@@ -22,6 +22,7 @@ keywords:
   - social-responsibility
   - ai-ethics
 category: social-impact
+stability: stable
 ---
 
 # Welfare AI Design

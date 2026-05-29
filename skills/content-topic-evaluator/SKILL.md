@@ -1,6 +1,11 @@
 ---
 name: content-topic-evaluator
+version: 1.0.0
+author: Anonymous Content Expert
+license: MIT
 description: 内容选题评估专家，基于HKR三维框架（Happy趣味性、Knowledge信息量、Resonance情绪共鸣）系统化评估内容选题质量，支持批量评分、分级定级（S/A/B/C）、输出优化建议。适用于自媒体文章、短视频脚本、播客主题、公众号推文、直播话题等内容创作场景。当用户需要评估选题质量、筛选内容方向、优化创作策略时触发使用。
+category: general
+stability: stable
 ---
 
 # 内容选题评估器 (Content Topic Evaluator)

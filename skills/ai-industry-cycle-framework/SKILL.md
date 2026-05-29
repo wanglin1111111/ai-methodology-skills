@@ -22,6 +22,7 @@ keywords:
   - industry-trend
   - ai-development
 category: industry-analysis
+stability: stable
 ---
 
 # AI Industry Cycle Framework

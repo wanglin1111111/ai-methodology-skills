@@ -22,6 +22,7 @@ keywords:
   - entrepreneurial-purpose
   - startup-vision
 category: entrepreneurship
+stability: stable
 ---
 
 # AI Startup Motivation Analysis

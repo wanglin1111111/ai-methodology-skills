@@ -20,6 +20,7 @@ keywords:
   - life-parameters
   - charisma-building
 category: life-strategy
+stability: stable
 ---
 
 # Self as Product Methodology

@@ -20,6 +20,7 @@ keywords:
   - organizational-change
   - human-ai-collaboration
 category: career-strategy
+stability: stable
 ---
 
 # One Person Team with AI

@@ -1,11 +1,17 @@
-# SKILL.md - AI陪伴机器人产品框架
-
 ---
 name: ai-companion-robot-framework
-description: AI陪伴机器人产品框架，涵盖产品定位、成长阶段设计、情感交互能力、目标群体适配，帮助企业打造拟人成长的数字生命伙伴
-keywords: [AI陪伴机器人, 情感交互, 数字生命伙伴, 成长阶段设计, 拟人成长, 情绪感知, 长期记忆, 声音克隆]
 version: 1.0.0
 author: Anonymous Companion AI Expert
+license: MIT
+description: AI陪伴机器人产品框架，涵盖产品定位、成长阶段设计、情感交互能力、目标群体适配，帮助企业打造拟人成长的数字生命伙伴
+keywords:
+  - AI陪伴机器人
+  - 情感交互
+  - 数字生命伙伴
+  - 成长阶段设计
+  - 拟人成长
+category: general
+stability: stable
 ---
 
 # AI陪伴机器人产品框架

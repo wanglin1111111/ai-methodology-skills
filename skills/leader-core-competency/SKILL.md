@@ -20,6 +20,7 @@ keywords:
   - sensitivity
   - flexibility
 category: leadership
+stability: stable
 ---
 
 # Leader Core Competency
